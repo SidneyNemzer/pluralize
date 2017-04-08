@@ -1,0 +1,22 @@
+{
+  "name": "pluralize",
+  "version": "1.0.0",
+  "description": "Simple Javascript library that helps write english scentences with conditional plural nouns",
+  "main": "pluralize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidneyNemzer/pluralize.git"
+  },
+  "author": "Sidney Nemzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SidneyNemzer/pluralize/issues"
+  },
+  "homepage": "https://github.com/SidneyNemzer/pluralize#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
